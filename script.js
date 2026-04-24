@@ -1,5 +1,5 @@
 const storeName = "The Classic Furniture Mall";
-const whatsappNumber = "918729000378";
+const whatsappNumber = "919781994378";
 
 function slugify(text) {
   return text
